@@ -1,0 +1,1001 @@
+Marital Status,Gender,Education,Purchased Bike
+Married,Female,Bachelors,No
+Married,Male,Partial College,No
+Married,Male,Partial College,No
+Single,Male,Bachelors,Yes
+Single,Male,Bachelors,Yes
+Married,Female,Partial College,No
+Single,Male,High School,Yes
+Married,Male,Bachelors,Yes
+Married,Male,Partial High School,No
+Married,Male,Partial College,Yes
+Married,Female,High School,Yes
+Single,Female,Bachelors,No
+Married,Male,Partial College,No
+Married,Male,Partial College,Yes
+Single,Male,Partial College,Yes
+Single,Female,High School,Yes
+Single,Male,Partial College,Yes
+Married,Female,Bachelors,No
+Single,Male,Partial College,Yes
+Single,Male,Partial High School,Yes
+Married,Female,Graduate Degree,Yes
+Single,Female,Bachelors,No
+Single,Male,Partial College,Yes
+Married,Female,High School,No
+Single,Male,Partial College,No
+Single,Male,Bachelors,No
+Single,Male,Partial College,Yes
+Single,Female,Bachelors,No
+Married,Male,Partial College,No
+Single,Female,Partial High School,Yes
+Married,Female,Partial College,No
+Married,Male,Partial College,Yes
+Single,Female,High School,No
+Single,Male,High School,Yes
+Single,Male,Partial College,Yes
+Single,Female,Partial High School,No
+Married,Female,Partial College,Yes
+Single,Female,Partial College,No
+Single,Male,High School,No
+Single,Female,Partial High School,Yes
+Single,Female,Partial College,No
+Single,Female,Bachelors,Yes
+Married,Female,Graduate Degree,No
+Married,Female,Partial College,Yes
+Married,Female,High School,Yes
+Married,Female,Bachelors,Yes
+Married,Female,Partial College,Yes
+Single,Female,Partial College,Yes
+Married,Male,Partial College,No
+Married,Male,Bachelors,Yes
+Single,Female,Partial College,No
+Single,Male,Bachelors,No
+Married,Female,Bachelors,No
+Single,Female,High School,No
+Single,Female,Bachelors,No
+Married,Male,High School,No
+Married,Male,Bachelors,Yes
+Married,Male,Partial College,Yes
+Married,Female,Bachelors,Yes
+Married,Male,Bachelors,Yes
+Single,Female,High School,No
+Single,Female,High School,No
+Married,Male,Bachelors,Yes
+Single,Male,Bachelors,No
+Married,Female,Bachelors,Yes
+Single,Male,Partial College,No
+Married,Female,Graduate Degree,Yes
+Single,Male,High School,Yes
+Single,Female,High School,Yes
+Married,Female,Partial High School,No
+Married,Male,Partial High School,Yes
+Single,Female,Partial High School,No
+Married,Female,High School,No
+Single,Female,Partial College,Yes
+Married,Female,High School,No
+Single,Female,High School,No
+Single,Female,Partial High School,No
+Married,Male,Bachelors,Yes
+Married,Male,High School,Yes
+Single,Male,Bachelors,Yes
+Married,Female,Graduate Degree,Yes
+Single,Female,Partial High School,No
+Married,Male,Bachelors,Yes
+Single,Male,High School,No
+Single,Male,Bachelors,Yes
+Single,Male,Partial College,Yes
+Single,Male,Partial College,Yes
+Married,Male,Bachelors,No
+Single,Male,Partial College,No
+Married,Male,High School,Yes
+Single,Female,Partial College,Yes
+Single,Male,Partial College,Yes
+Single,Female,Bachelors,Yes
+Single,Female,Partial College,No
+Single,Female,High School,No
+Single,Female,Partial College,No
+Married,Male,Partial College,No
+Married,Male,Bachelors,Yes
+Single,Male,Graduate Degree,Yes
+Married,Female,High School,No
+Single,Male,High School,No
+Single,Male,Bachelors,Yes
+Married,Male,Partial College,No
+Single,Male,Partial College,No
+Single,Female,High School,Yes
+Single,Female,Partial College,No
+Married,Male,Partial College,Yes
+Single,Female,Partial College,Yes
+Married,Female,Bachelors,Yes
+Single,Male,Bachelors,Yes
+Single,Female,Partial College,Yes
+Single,Female,Bachelors,No
+Single,Female,Partial College,No
+Single,Female,Graduate Degree,Yes
+Married,Male,Bachelors,Yes
+Single,Male,Graduate Degree,Yes
+Married,Female,Bachelors,No
+Single,Female,High School,Yes
+Married,Male,Bachelors,No
+Single,Female,Partial College,No
+Married,Female,Bachelors,Yes
+Married,Male,High School,No
+Single,Female,Bachelors,No
+Single,Female,Partial College,No
+Single,Female,Bachelors,Yes
+Married,Male,Bachelors,No
+Single,Male,Partial College,No
+Married,Male,Bachelors,No
+Single,Male,Partial College,Yes
+Single,Male,High School,Yes
+Married,Male,Bachelors,No
+Married,Male,High School,Yes
+Married,Male,Bachelors,Yes
+Single,Male,Bachelors,Yes
+Single,Female,Partial College,No
+Married,Male,Partial College,No
+Single,Female,High School,Yes
+Single,Male,High School,No
+Married,Female,Partial High School,Yes
+Single,Female,Partial College,Yes
+Single,Male,Bachelors,Yes
+Single,Female,Partial College,Yes
+Married,Male,Bachelors,Yes
+Married,Female,Bachelors,No
+Single,Male,Bachelors,Yes
+Married,Female,Partial College,No
+Married,Male,Graduate Degree,Yes
+Married,Female,Bachelors,Yes
+Married,Male,High School,No
+Single,Male,Partial College,No
+Married,Male,Partial College,Yes
+Single,Male,Bachelors,No
+Single,Female,Partial High School,No
+Married,Male,Bachelors,No
+Single,Male,Graduate Degree,No
+Single,Female,Partial High School,Yes
+Married,Female,Partial College,No
+Single,Male,Partial College,No
+Single,Female,Partial College,Yes
+Married,Female,Bachelors,No
+Single,Female,Bachelors,Yes
+Married,Female,High School,Yes
+Single,Female,Bachelors,Yes
+Single,Male,Partial College,No
+Married,Male,Partial College,Yes
+Married,Female,Partial College,No
+Single,Male,Bachelors,Yes
+Single,Male,High School,No
+Single,Male,Bachelors,Yes
+Married,Male,Bachelors,No
+Married,Female,Partial College,Yes
+Married,Female,Bachelors,No
+Married,Male,Partial High School,No
+Married,Female,Partial College,No
+Single,Male,Graduate Degree,Yes
+Single,Female,Partial College,Yes
+Single,Female,Partial College,Yes
+Single,Female,Partial College,No
+Married,Male,Partial College,Yes
+Married,Female,Graduate Degree,Yes
+Single,Male,Graduate Degree,No
+Married,Female,Partial College,Yes
+Married,Female,High School,No
+Single,Male,Bachelors,Yes
+Married,Female,High School,No
+Married,Female,Bachelors,Yes
+Married,Female,High School,Yes
+Single,Male,Partial College,No
+Married,Female,Bachelors,Yes
+Married,Male,Partial College,Yes
+Married,Male,High School,No
+Single,Male,High School,Yes
+Single,Female,Bachelors,No
+Married,Female,Bachelors,No
+Single,Female,Partial High School,No
+Single,Male,Bachelors,Yes
+Single,Female,Graduate Degree,No
+Married,Male,Graduate Degree,Yes
+Single,Female,Graduate Degree,Yes
+Single,Male,Bachelors,Yes
+Single,Male,Bachelors,No
+Married,Male,High School,Yes
+Single,Male,Partial College,Yes
+Single,Female,Partial College,Yes
+Single,Female,High School,No
+Married,Male,Graduate Degree,Yes
+Single,Male,Partial College,No
+Single,Female,Partial High School,Yes
+Single,Female,Graduate Degree,Yes
+Single,Female,Partial College,Yes
+Married,Female,Graduate Degree,No
+Married,Female,Graduate Degree,Yes
+Single,Female,Partial College,No
+Single,Male,Bachelors,Yes
+Married,Male,Bachelors,Yes
+Single,Male,Partial College,Yes
+Married,Male,Partial High School,No
+Single,Female,Partial High School,No
+Single,Male,Bachelors,No
+Single,Male,Partial College,Yes
+Married,Male,Bachelors,Yes
+Single,Male,Partial High School,No
+Married,Female,Partial College,No
+Single,Female,Bachelors,No
+Married,Female,Partial College,No
+Married,Male,Partial College,No
+Single,Female,High School,Yes
+Married,Male,Partial High School,No
+Married,Female,Graduate Degree,No
+Single,Male,High School,No
+Married,Male,Partial College,No
+Married,Female,Bachelors,Yes
+Married,Female,Graduate Degree,No
+Married,Male,Bachelors,Yes
+Single,Male,Bachelors,Yes
+Married,Female,Graduate Degree,Yes
+Single,Female,Graduate Degree,Yes
+Married,Female,Partial College,Yes
+Married,Male,Partial College,No
+Single,Female,High School,Yes
+Married,Male,Graduate Degree,No
+Single,Female,Partial College,No
+Single,Male,Bachelors,Yes
+Single,Female,High School,No
+Married,Female,Bachelors,Yes
+Married,Male,Bachelors,Yes
+Married,Female,Partial College,Yes
+Married,Female,High School,Yes
+Married,Female,High School,No
+Single,Male,Bachelors,Yes
+Married,Male,Graduate Degree,Yes
+Married,Male,High School,No
+Single,Male,Bachelors,No
+Married,Male,Partial High School,Yes
+Single,Male,Partial High School,No
+Single,Female,Graduate Degree,Yes
+Married,Male,Graduate Degree,No
+Single,Female,Graduate Degree,Yes
+Single,Female,Partial College,No
+Married,Male,Bachelors,Yes
+Single,Female,Partial College,No
+Married,Female,Bachelors,Yes
+Married,Female,Partial College,No
+Single,Female,Bachelors,No
+Married,Male,Graduate Degree,Yes
+Single,Female,Partial College,No
+Single,Female,High School,No
+Single,Male,Bachelors,Yes
+Married,Male,Partial College,No
+Single,Female,Graduate Degree,Yes
+Single,Female,Partial College,Yes
+Single,Female,High School,No
+Married,Male,Partial High School,Yes
+Single,Female,High School,No
+Married,Female,Bachelors,Yes
+Married,Female,Graduate Degree,Yes
+Married,Female,Partial College,No
+Married,Female,High School,Yes
+Married,Male,High School,Yes
+Single,Male,Bachelors,Yes
+Single,Female,Partial High School,No
+Single,Male,Partial College,No
+Single,Male,Partial High School,No
+Married,Female,Partial College,No
+Single,Male,Partial College,No
+Married,Female,Partial College,No
+Single,Female,Bachelors,No
+Single,Female,Graduate Degree,Yes
+Married,Male,Graduate Degree,No
+Married,Male,High School,Yes
+Single,Female,Partial College,Yes
+Married,Male,Bachelors,Yes
+Married,Female,Bachelors,Yes
+Single,Female,High School,Yes
+Single,Male,Partial College,Yes
+Single,Female,Partial College,Yes
+Single,Female,Bachelors,Yes
+Married,Male,Graduate Degree,Yes
+Married,Female,High School,Yes
+Married,Female,Partial College,No
+Single,Female,High School,No
+Married,Female,Bachelors,Yes
+Single,Male,Bachelors,Yes
+Married,Female,Bachelors,No
+Married,Male,Graduate Degree,Yes
+Single,Male,Partial High School,No
+Married,Male,Bachelors,Yes
+Married,Male,Bachelors,No
+Married,Male,Partial College,Yes
+Married,Female,Partial College,Yes
+Married,Male,Bachelors,No
+Married,Male,Partial College,No
+Married,Male,High School,Yes
+Single,Male,Partial High School,Yes
+Married,Male,Bachelors,Yes
+Single,Male,Bachelors,No
+Married,Male,Graduate Degree,Yes
+Married,Male,Bachelors,Yes
+Married,Male,Partial College,No
+Married,Female,Bachelors,No
+Married,Male,Graduate Degree,Yes
+Single,Female,Graduate Degree,Yes
+Single,Female,Partial High School,Yes
+Single,Female,Graduate Degree,Yes
+Married,Male,Bachelors,Yes
+Single,Male,Partial College,Yes
+Married,Female,Bachelors,Yes
+Married,Male,Bachelors,No
+Single,Male,Partial College,No
+Married,Female,Partial High School,No
+Single,Female,Bachelors,No
+Married,Male,Partial High School,No
+Single,Female,Partial High School,Yes
+Married,Male,High School,Yes
+Married,Male,Bachelors,No
+Married,Female,Graduate Degree,No
+Single,Male,Partial High School,No
+Married,Male,Partial High School,No
+Single,Female,High School,Yes
+Married,Male,Bachelors,No
+Single,Male,Partial College,No
+Single,Female,High School,Yes
+Single,Male,Partial High School,No
+Single,Female,High School,No
+Single,Male,Partial College,Yes
+Married,Female,Bachelors,Yes
+Married,Male,Bachelors,Yes
+Single,Female,Partial College,Yes
+Married,Male,High School,No
+Single,Female,Partial College,Yes
+Single,Male,Partial College,Yes
+Single,Male,High School,Yes
+Married,Female,Partial College,No
+Single,Male,Graduate Degree,Yes
+Single,Male,Bachelors,No
+Single,Male,Bachelors,No
+Married,Female,High School,Yes
+Single,Female,Partial High School,No
+Married,Male,High School,Yes
+Married,Male,Bachelors,No
+Single,Male,Graduate Degree,Yes
+Single,Female,Partial College,Yes
+Married,Male,Bachelors,Yes
+Married,Female,Bachelors,Yes
+Single,Female,High School,Yes
+Single,Female,Bachelors,Yes
+Married,Male,Partial College,Yes
+Married,Female,Partial College,Yes
+Single,Female,Partial College,Yes
+Single,Female,Partial College,Yes
+Married,Female,Bachelors,No
+Single,Male,Graduate Degree,No
+Married,Male,Bachelors,Yes
+Single,Male,High School,No
+Single,Female,Bachelors,No
+Married,Female,Bachelors,No
+Married,Male,Bachelors,Yes
+Married,Male,Partial College,Yes
+Married,Male,Partial College,No
+Married,Male,Bachelors,No
+Single,Male,Bachelors,Yes
+Married,Female,Partial College,No
+Married,Male,Partial College,No
+Married,Male,Graduate Degree,Yes
+Single,Female,Partial College,Yes
+Single,Male,Partial College,No
+Single,Female,Partial High School,Yes
+Single,Female,Partial High School,Yes
+Married,Female,Bachelors,No
+Married,Female,Bachelors,Yes
+Single,Male,Bachelors,No
+Single,Female,Bachelors,Yes
+Single,Male,Bachelors,No
+Married,Female,Partial High School,No
+Married,Female,Bachelors,Yes
+Married,Male,Bachelors,Yes
+Single,Male,Bachelors,Yes
+Married,Female,Partial High School,No
+Single,Male,Bachelors,Yes
+Single,Female,Bachelors,Yes
+Single,Female,Bachelors,No
+Married,Female,Bachelors,No
+Married,Male,Graduate Degree,No
+Married,Male,Graduate Degree,No
+Married,Male,High School,Yes
+Married,Female,Bachelors,Yes
+Married,Female,Bachelors,No
+Single,Female,Bachelors,Yes
+Single,Female,Partial College,No
+Married,Female,Partial College,No
+Married,Female,Partial College,Yes
+Married,Male,Partial College,No
+Single,Male,Partial College,No
+Single,Female,Partial College,No
+Married,Female,Graduate Degree,Yes
+Married,Female,Graduate Degree,No
+Single,Male,Bachelors,Yes
+Single,Female,Partial College,No
+Married,Male,Bachelors,Yes
+Single,Male,Partial College,Yes
+Married,Female,Bachelors,No
+Married,Male,Partial College,No
+Single,Male,Partial College,Yes
+Single,Male,High School,Yes
+Single,Female,Partial High School,No
+Married,Male,Bachelors,No
+Single,Male,Partial College,No
+Single,Female,Graduate Degree,Yes
+Married,Male,Bachelors,No
+Single,Female,Partial College,No
+Single,Female,High School,No
+Single,Male,Partial College,Yes
+Married,Female,High School,Yes
+Single,Female,Partial College,No
+Married,Female,High School,Yes
+Single,Female,Bachelors,No
+Married,Female,High School,Yes
+Single,Female,Partial College,Yes
+Single,Female,Graduate Degree,Yes
+Married,Male,Partial College,No
+Single,Male,Bachelors,Yes
+Married,Male,Partial College,Yes
+Single,Male,Graduate Degree,Yes
+Married,Female,Bachelors,Yes
+Single,Male,High School,No
+Married,Female,Bachelors,Yes
+Married,Female,Graduate Degree,No
+Married,Female,Bachelors,Yes
+Married,Female,Graduate Degree,No
+Married,Female,Bachelors,No
+Single,Female,High School,Yes
+Married,Female,Bachelors,No
+Married,Female,Partial College,No
+Single,Female,Partial College,No
+Single,Male,High School,No
+Married,Female,Partial College,Yes
+Single,Male,High School,No
+Married,Female,Partial College,No
+Married,Male,Partial High School,Yes
+Single,Female,Bachelors,No
+Single,Male,Partial High School,Yes
+Married,Female,Bachelors,Yes
+Married,Female,Bachelors,Yes
+Single,Male,High School,No
+Single,Female,Bachelors,Yes
+Married,Male,Bachelors,No
+Single,Female,Bachelors,Yes
+Single,Male,Bachelors,Yes
+Married,Female,Graduate Degree,No
+Married,Female,Bachelors,No
+Single,Male,High School,No
+Single,Male,Bachelors,Yes
+Single,Female,Graduate Degree,Yes
+Married,Female,Bachelors,Yes
+Married,Female,Bachelors,Yes
+Married,Male,High School,No
+Single,Female,Bachelors,Yes
+Married,Male,High School,Yes
+Married,Male,Bachelors,Yes
+Married,Male,Bachelors,Yes
+Married,Female,Bachelors,No
+Single,Female,Partial College,Yes
+Single,Male,Graduate Degree,Yes
+Married,Male,Graduate Degree,No
+Single,Female,Partial College,Yes
+Single,Male,Partial College,No
+Married,Female,Partial High School,No
+Married,Male,Bachelors,No
+Single,Female,Partial High School,No
+Married,Male,Partial High School,No
+Married,Male,Bachelors,No
+Married,Male,Partial High School,No
+Single,Female,Partial College,Yes
+Single,Male,Bachelors,Yes
+Married,Male,High School,No
+Married,Male,Partial College,No
+Single,Female,Bachelors,Yes
+Single,Female,Graduate Degree,Yes
+Married,Male,Partial College,Yes
+Single,Female,High School,Yes
+Married,Male,Bachelors,No
+Married,Female,Graduate Degree,No
+Married,Male,Partial College,No
+Married,Female,Bachelors,Yes
+Married,Male,Bachelors,Yes
+Married,Male,Partial College,No
+Married,Female,Bachelors,Yes
+Married,Female,Partial College,Yes
+Married,Male,Partial College,No
+Married,Male,Bachelors,Yes
+Single,Male,Bachelors,Yes
+Single,Male,Bachelors,Yes
+Married,Female,Partial College,Yes
+Single,Female,Graduate Degree,Yes
+Single,Male,Bachelors,No
+Married,Female,Bachelors,No
+Married,Female,High School,No
+Single,Male,Bachelors,Yes
+Married,Female,Bachelors,Yes
+Married,Male,Bachelors,No
+Single,Male,Partial College,No
+Single,Male,High School,Yes
+Single,Male,Bachelors,Yes
+Married,Male,Partial College,Yes
+Single,Female,Graduate Degree,No
+Single,Male,Bachelors,Yes
+Married,Female,Bachelors,No
+Married,Male,Bachelors,No
+Single,Female,Partial College,No
+Married,Male,Partial College,Yes
+Married,Male,Partial College,Yes
+Single,Male,Partial High School,No
+Single,Female,Bachelors,Yes
+Married,Male,Bachelors,No
+Married,Male,High School,No
+Married,Male,Bachelors,No
+Single,Female,Bachelors,Yes
+Married,Female,Partial College,Yes
+Married,Female,Bachelors,No
+Single,Female,Bachelors,Yes
+Single,Female,Graduate Degree,No
+Married,Male,Graduate Degree,No
+Married,Male,High School,No
+Married,Female,High School,No
+Single,Male,Bachelors,No
+Single,Male,Partial College,No
+Married,Male,Bachelors,Yes
+Married,Male,High School,Yes
+Single,Female,Graduate Degree,No
+Married,Female,Bachelors,Yes
+Single,Female,Bachelors,Yes
+Married,Female,Bachelors,No
+Single,Male,High School,Yes
+Married,Male,Partial College,Yes
+Married,Female,Graduate Degree,Yes
+Single,Male,Partial College,Yes
+Married,Male,Bachelors,No
+Married,Female,Partial College,No
+Married,Female,Bachelors,No
+Single,Female,Bachelors,No
+Married,Female,Graduate Degree,No
+Married,Female,Partial High School,No
+Married,Female,Graduate Degree,Yes
+Single,Female,Partial College,No
+Single,Male,Partial College,No
+Married,Male,Partial College,Yes
+Married,Female,Graduate Degree,No
+Married,Male,Partial College,Yes
+Married,Male,Partial College,Yes
+Single,Male,Graduate Degree,No
+Married,Male,Partial High School,No
+Married,Male,Partial High School,No
+Single,Male,High School,No
+Married,Male,Graduate Degree,No
+Single,Female,Bachelors,Yes
+Single,Male,Partial College,No
+Single,Female,High School,No
+Married,Male,Bachelors,No
+Married,Male,Bachelors,No
+Single,Female,Partial College,No
+Married,Female,Graduate Degree,No
+Married,Male,Partial College,No
+Married,Male,Graduate Degree,No
+Married,Male,Bachelors,No
+Single,Male,Bachelors,Yes
+Single,Male,Bachelors,Yes
+Married,Male,High School,No
+Married,Female,Graduate Degree,No
+Married,Female,High School,Yes
+Single,Male,Bachelors,No
+Married,Female,Graduate Degree,Yes
+Married,Male,High School,Yes
+Single,Female,Partial College,No
+Single,Female,Partial College,Yes
+Married,Male,Graduate Degree,No
+Single,Female,High School,No
+Married,Female,Partial College,No
+Single,Male,High School,Yes
+Married,Male,Graduate Degree,No
+Married,Female,Partial College,Yes
+Married,Male,High School,No
+Single,Female,Partial College,No
+Single,Male,Partial High School,Yes
+Married,Male,Graduate Degree,Yes
+Married,Male,High School,No
+Single,Male,High School,Yes
+Single,Male,Bachelors,No
+Single,Female,Graduate Degree,Yes
+Married,Male,Partial High School,Yes
+Married,Male,Bachelors,No
+Married,Male,Partial College,No
+Married,Female,Bachelors,Yes
+Single,Female,Partial High School,No
+Single,Male,Partial College,Yes
+Married,Female,Partial College,No
+Single,Female,Graduate Degree,Yes
+Single,Female,Graduate Degree,No
+Married,Male,High School,Yes
+Single,Female,Partial High School,No
+Single,Female,High School,No
+Married,Female,Partial College,Yes
+Married,Male,Bachelors,No
+Married,Male,Bachelors,No
+Married,Female,Partial College,No
+Single,Female,Partial College,Yes
+Married,Male,Graduate Degree,No
+Married,Female,Partial College,No
+Married,Female,Graduate Degree,No
+Single,Male,Partial College,Yes
+Married,Female,Graduate Degree,No
+Married,Male,High School,No
+Single,Male,Partial College,No
+Single,Female,Graduate Degree,No
+Married,Female,Bachelors,Yes
+Married,Male,Bachelors,No
+Single,Female,High School,No
+Single,Female,Partial College,Yes
+Single,Male,High School,No
+Single,Male,Graduate Degree,Yes
+Married,Male,Graduate Degree,No
+Married,Female,Partial College,Yes
+Married,Male,Bachelors,No
+Married,Female,Partial College,Yes
+Married,Female,Graduate Degree,Yes
+Married,Female,Bachelors,No
+Single,Female,Graduate Degree,No
+Single,Female,Graduate Degree,No
+Single,Male,High School,No
+Single,Female,Bachelors,Yes
+Single,Female,Bachelors,Yes
+Single,Female,Graduate Degree,Yes
+Single,Male,Partial College,Yes
+Married,Male,Partial College,No
+Single,Male,High School,Yes
+Single,Male,High School,Yes
+Married,Female,Partial College,No
+Married,Male,High School,No
+Married,Male,Partial College,No
+Single,Male,Bachelors,Yes
+Single,Female,Bachelors,No
+Married,Female,Graduate Degree,Yes
+Single,Male,High School,Yes
+Single,Female,Partial College,No
+Married,Female,Graduate Degree,No
+Married,Female,Graduate Degree,Yes
+Married,Male,Graduate Degree,No
+Married,Female,Partial College,Yes
+Married,Female,High School,No
+Married,Female,Graduate Degree,No
+Married,Female,High School,No
+Married,Male,Partial College,No
+Single,Female,Graduate Degree,Yes
+Single,Female,High School,No
+Single,Female,Graduate Degree,Yes
+Married,Female,High School,No
+Married,Male,Bachelors,No
+Married,Male,Partial College,No
+Married,Male,Graduate Degree,No
+Married,Male,Bachelors,No
+Married,Male,Bachelors,No
+Married,Female,Partial College,No
+Single,Female,Graduate Degree,No
+Married,Male,Partial High School,No
+Married,Female,Partial College,No
+Single,Female,Bachelors,No
+Single,Female,Graduate Degree,Yes
+Married,Female,Partial College,Yes
+Single,Male,Partial College,No
+Single,Male,Bachelors,No
+Married,Male,High School,No
+Single,Female,Bachelors,No
+Married,Male,Bachelors,Yes
+Married,Male,Bachelors,Yes
+Single,Female,Bachelors,Yes
+Single,Female,Graduate Degree,Yes
+Married,Male,Partial College,No
+Single,Male,Partial College,No
+Married,Female,Partial High School,No
+Married,Male,Partial High School,No
+Single,Male,Partial College,Yes
+Married,Female,Bachelors,No
+Single,Male,High School,No
+Married,Male,High School,Yes
+Single,Female,Graduate Degree,No
+Single,Female,Bachelors,Yes
+Married,Female,Bachelors,No
+Single,Female,Partial College,Yes
+Married,Female,Partial College,Yes
+Married,Male,Bachelors,No
+Single,Female,Bachelors,No
+Married,Male,High School,Yes
+Married,Female,Partial College,No
+Married,Female,High School,No
+Single,Female,Bachelors,No
+Married,Male,High School,Yes
+Married,Female,Graduate Degree,Yes
+Single,Female,Graduate Degree,No
+Single,Male,Bachelors,Yes
+Married,Male,Graduate Degree,Yes
+Married,Female,Graduate Degree,No
+Single,Female,High School,Yes
+Single,Male,Bachelors,Yes
+Single,Female,Graduate Degree,No
+Single,Female,Partial High School,No
+Married,Male,High School,No
+Married,Male,Graduate Degree,Yes
+Married,Male,High School,No
+Married,Male,Graduate Degree,Yes
+Married,Male,High School,No
+Married,Female,Bachelors,Yes
+Single,Female,Bachelors,Yes
+Married,Male,High School,Yes
+Single,Female,Graduate Degree,Yes
+Single,Male,Bachelors,No
+Single,Female,Bachelors,Yes
+Single,Female,Partial College,No
+Married,Male,High School,No
+Married,Male,Partial High School,No
+Single,Female,Partial College,Yes
+Married,Female,Partial College,No
+Married,Male,Partial College,No
+Married,Female,Partial College,Yes
+Single,Male,High School,No
+Married,Male,Bachelors,No
+Married,Female,Partial College,No
+Married,Male,Graduate Degree,Yes
+Married,Female,Bachelors,No
+Single,Female,Bachelors,No
+Married,Male,Graduate Degree,No
+Married,Female,Partial College,No
+Married,Male,High School,No
+Married,Male,Graduate Degree,No
+Married,Male,Partial College,No
+Single,Female,Partial College,No
+Married,Female,High School,Yes
+Married,Male,High School,No
+Married,Male,Bachelors,Yes
+Single,Male,High School,Yes
+Single,Female,Graduate Degree,No
+Single,Female,Graduate Degree,Yes
+Single,Male,Partial High School,No
+Married,Female,Bachelors,No
+Single,Male,Bachelors,Yes
+Married,Male,Graduate Degree,Yes
+Married,Female,Partial College,No
+Single,Female,Partial College,Yes
+Married,Male,Bachelors,No
+Married,Female,Partial College,Yes
+Married,Female,High School,No
+Married,Female,Bachelors,No
+Married,Male,Graduate Degree,No
+Married,Male,Partial College,Yes
+Single,Male,Graduate Degree,Yes
+Married,Female,Graduate Degree,No
+Married,Female,Graduate Degree,Yes
+Married,Male,Partial High School,No
+Single,Male,Bachelors,Yes
+Single,Male,High School,No
+Married,Male,Partial College,No
+Married,Male,Partial College,Yes
+Married,Female,Partial College,No
+Married,Male,Bachelors,No
+Single,Male,Bachelors,Yes
+Married,Male,Bachelors,No
+Single,Female,High School,Yes
+Single,Female,High School,Yes
+Married,Female,Bachelors,No
+Single,Female,Bachelors,Yes
+Single,Female,Partial High School,No
+Married,Male,High School,Yes
+Single,Female,Partial High School,No
+Married,Male,High School,Yes
+Single,Male,High School,No
+Married,Male,High School,Yes
+Married,Male,Graduate Degree,No
+Single,Male,High School,No
+Married,Male,Partial College,Yes
+Single,Male,Partial College,Yes
+Single,Female,High School,Yes
+Single,Female,Graduate Degree,Yes
+Single,Male,Bachelors,Yes
+Married,Male,Graduate Degree,No
+Married,Male,Partial College,No
+Married,Male,High School,Yes
+Married,Male,High School,Yes
+Single,Female,High School,No
+Married,Female,High School,No
+Single,Female,Partial College,Yes
+Single,Male,High School,Yes
+Married,Female,High School,No
+Single,Female,Graduate Degree,Yes
+Married,Male,Partial College,No
+Single,Female,Bachelors,No
+Married,Female,High School,No
+Single,Female,Bachelors,Yes
+Married,Male,Partial College,No
+Married,Female,Graduate Degree,Yes
+Married,Female,Graduate Degree,Yes
+Married,Male,Partial College,No
+Single,Female,High School,No
+Single,Male,Bachelors,No
+Married,Male,Partial College,Yes
+Married,Male,High School,No
+Single,Female,High School,Yes
+Single,Male,Bachelors,Yes
+Married,Male,High School,Yes
+Married,Male,Graduate Degree,Yes
+Single,Female,Bachelors,Yes
+Single,Female,Partial High School,No
+Single,Male,Graduate Degree,No
+Married,Male,High School,No
+Married,Female,Bachelors,Yes
+Married,Female,Graduate Degree,No
+Single,Female,Bachelors,Yes
+Single,Female,Partial High School,Yes
+Single,Female,Bachelors,Yes
+Married,Female,Partial College,No
+Married,Male,Graduate Degree,No
+Single,Female,Bachelors,Yes
+Single,Female,Graduate Degree,Yes
+Married,Male,Partial College,No
+Married,Male,Graduate Degree,No
+Married,Female,Partial College,Yes
+Single,Male,Partial High School,No
+Married,Female,High School,No
+Single,Female,Partial High School,No
+Married,Female,Partial College,No
+Single,Female,Partial High School,No
+Single,Male,Graduate Degree,Yes
+Married,Female,High School,No
+Single,Female,Bachelors,No
+Married,Male,Partial College,Yes
+Single,Male,Bachelors,Yes
+Single,Male,Graduate Degree,Yes
+Married,Female,Partial College,No
+Single,Female,Partial College,No
+Single,Male,Partial College,No
+Married,Female,Bachelors,Yes
+Married,Male,Bachelors,No
+Married,Male,High School,No
+Single,Male,Partial College,No
+Married,Female,High School,Yes
+Married,Male,Graduate Degree,Yes
+Single,Male,Bachelors,Yes
+Single,Male,High School,No
+Single,Female,Bachelors,Yes
+Married,Male,High School,No
+Married,Male,Partial College,No
+Single,Male,Partial High School,Yes
+Single,Female,Bachelors,No
+Married,Male,Partial College,No
+Married,Male,High School,No
+Single,Female,Graduate Degree,Yes
+Married,Male,Bachelors,No
+Married,Female,Bachelors,Yes
+Single,Female,Bachelors,Yes
+Single,Male,Partial High School,No
+Married,Male,Bachelors,No
+Married,Male,Graduate Degree,No
+Married,Male,High School,No
+Married,Male,Graduate Degree,Yes
+Married,Female,Graduate Degree,Yes
+Married,Male,Graduate Degree,No
+Married,Female,Bachelors,Yes
+Married,Male,Graduate Degree,No
+Married,Female,Partial High School,No
+Married,Male,Graduate Degree,No
+Married,Male,Graduate Degree,No
+Single,Female,Bachelors,No
+Married,Female,Graduate Degree,Yes
+Married,Female,Partial College,No
+Single,Male,Graduate Degree,Yes
+Single,Female,Bachelors,Yes
+Married,Male,Graduate Degree,No
+Married,Male,Graduate Degree,Yes
+Married,Female,Bachelors,Yes
+Married,Female,Bachelors,Yes
+Married,Male,Partial High School,No
+Single,Male,Bachelors,Yes
+Married,Female,Graduate Degree,No
+Married,Male,High School,Yes
+Single,Female,Bachelors,Yes
+Single,Male,Bachelors,No
+Single,Male,Graduate Degree,No
+Single,Female,Bachelors,Yes
+Single,Male,Bachelors,Yes
+Married,Male,Graduate Degree,Yes
+Married,Male,Bachelors,No
+Single,Male,Bachelors,Yes
+Married,Male,Graduate Degree,Yes
+Married,Male,High School,No
+Married,Female,Bachelors,No
+Married,Female,Partial College,No
+Single,Male,Bachelors,Yes
+Single,Male,Graduate Degree,No
+Married,Male,Graduate Degree,No
+Single,Male,Graduate Degree,Yes
+Single,Male,Bachelors,Yes
+Married,Female,Partial College,Yes
+Married,Female,High School,No
+Married,Male,High School,No
+Single,Female,Partial College,Yes
+Married,Female,Partial College,Yes
+Single,Male,Graduate Degree,Yes
+Single,Male,Partial College,Yes
+Single,Female,Graduate Degree,Yes
+Single,Female,High School,No
+Married,Female,Graduate Degree,No
+Married,Male,High School,No
+Married,Male,High School,No
+Married,Male,Graduate Degree,No
+Married,Female,Partial College,Yes
+Single,Female,High School,Yes
+Single,Male,Partial College,No
+Married,Male,Bachelors,No
+Married,Female,Partial College,Yes
+Married,Female,Bachelors,No
+Married,Male,Graduate Degree,Yes
+Married,Female,High School,No
+Single,Male,Partial High School,No
+Single,Female,Graduate Degree,No
+Married,Female,Graduate Degree,Yes
+Married,Female,Partial College,No
+Married,Female,Bachelors,No
+Married,Female,Bachelors,Yes
+Single,Male,Bachelors,Yes
+Married,Female,Bachelors,Yes
+Single,Female,High School,Yes
+Single,Female,Graduate Degree,No
+Married,Male,Partial High School,No
+Single,Female,Graduate Degree,No
+Married,Male,Bachelors,No
+Married,Female,Bachelors,No
+Single,Female,Partial College,Yes
+Married,Male,Bachelors,Yes
+Married,Female,High School,No
+Married,Female,Graduate Degree,Yes
+Married,Female,Partial College,No
+Married,Male,Graduate Degree,Yes
+Married,Male,Partial College,Yes
+Single,Male,Partial College,No
+Married,Female,Bachelors,No
+Married,Male,Partial College,No
+Married,Female,Bachelors,Yes
+Single,Male,Partial College,No
+Single,Female,Bachelors,No
+Married,Female,Graduate Degree,Yes
+Married,Male,Bachelors,No
+Single,Male,Partial High School,No
+Married,Male,Graduate Degree,No
+Married,Female,Partial College,No
+Single,Female,Partial High School,No
+Married,Female,High School,No
+Married,Male,Partial College,No
+Married,Male,Graduate Degree,Yes
+Married,Male,Graduate Degree,Yes
+Married,Female,Bachelors,No
+Single,Female,Graduate Degree,No
+Married,Male,Partial College,No
+Single,Male,High School,No
+Single,Female,Bachelors,Yes
+Married,Male,Partial College,No
+Single,Male,Partial College,Yes
+Married,Male,Graduate Degree,No
+Married,Male,High School,Yes
+Single,Female,Bachelors,No
+Single,Male,High School,Yes
+Single,Female,Graduate Degree,No
+Married,Male,Bachelors,No
+Married,Male,Bachelors,No
+Single,Female,High School,No
+Single,Female,Graduate Degree,Yes
+Married,Male,Partial College,Yes
+Single,Male,Partial College,Yes
+Married,Male,Partial College,No
+Married,Male,High School,Yes
+Single,Male,Graduate Degree,Yes
+Married,Male,Bachelors,Yes
+Single,Male,Bachelors,No
+Single,Male,High School,Yes
